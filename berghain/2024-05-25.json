@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77212/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-05-25T23:59:00+02:00",
+      "end": "2024-05-26T04:00:00+02:00",
+      "text": "Beste Hira",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-26T04:00:00+02:00",
+      "end": "2024-05-26T05:30:00+02:00",
+      "text": "Tobias. LIVE ostgut ton",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-26T05:30:00+02:00",
+      "end": "2024-05-26T09:30:00+02:00",
+      "text": "Ignez somov",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-26T09:30:00+02:00",
+      "end": "2024-05-26T13:30:00+02:00",
+      "text": "R.M.K fossil archive",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-26T13:30:00+02:00",
+      "end": "2024-05-26T17:30:00+02:00",
+      "text": "JakoJako mute",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-26T17:30:00+02:00",
+      "end": "2024-05-26T21:30:00+02:00",
+      "text": "Luke Slater mote-evolver",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-26T21:30:00+02:00",
+      "end": "2024-05-27T01:30:00+02:00",
+      "text": "Elisa Bee",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-27T01:30:00+02:00",
+      "end": "2024-05-27T08:00:00+02:00",
+      "text": "Ben Sims symbolism",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-05-25T23:59:00+02:00",
+      "end": "2024-05-26T04:00:00+02:00",
+      "text": "Nikola",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-05-26T04:00:00+02:00",
+      "end": "2024-05-26T08:00:00+02:00",
+      "text": "Ezgi",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-05-26T08:00:00+02:00",
+      "end": "2024-05-26T12:00:00+02:00",
+      "text": "Vlada",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-05-26T12:00:00+02:00",
+      "end": "2024-05-26T16:00:00+02:00",
+      "text": "Dinky horizontal",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-05-26T16:00:00+02:00",
+      "end": "2024-05-26T20:00:00+02:00",
+      "text": "Mike Starr",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-05-26T20:00:00+02:00",
+      "end": "2024-05-27T00:00:00+02:00",
+      "text": "Gallegos",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-05-27T00:00:00+02:00",
+      "end": "2024-05-27T08:00:00+02:00",
+      "text": "John Talabot hivern disc",
+      "stage": "Panorama"
+    }
+  ]
+}
