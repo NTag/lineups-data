@@ -8,6 +8,13 @@
       "path": "berghain/2024-05-25.json"
     },
     {
+      "start": "2024-05-31T22:00:00+02:00",
+      "end": "2024-06-01T10:00:00+02:00",
+      "name": "PiepShow",
+      "location": "KitKat",
+      "path": "kitkat/2024-05-31.json"
+    },
+    {
       "start": "2024-06-01T23:55:00+02:00",
       "end": "2024-06-03T08:00:00+02:00",
       "name": "Gegen Glory",
