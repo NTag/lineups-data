@@ -1,0 +1,90 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77214/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-06-08T23:59:00+02:00",
+      "end": "2024-06-09T04:30:00+02:00",
+      "text": "Fadi Mohem mohem",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-09T04:30:00+02:00",
+      "end": "2024-06-09T08:30:00+02:00",
+      "text": "Efdemin ostgut ton",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-09T08:30:00+02:00",
+      "end": "2024-06-09T12:30:00+02:00",
+      "text": "Darwin B2B Esposito",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-09T12:30:00+02:00",
+      "end": "2024-06-09T16:30:00+02:00",
+      "text": "Olivia Mendez dust in grooves",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-09T16:30:00+02:00",
+      "end": "2024-06-09T20:30:00+02:00",
+      "text": "Mike Parker",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-09T20:30:00+02:00",
+      "end": "2024-06-10T00:30:00+02:00",
+      "text": "Mari Sakurai",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-10T00:30:00+02:00",
+      "end": "2024-06-10T04:30:00+02:00",
+      "text": "Rene Wise moving pressure",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-08T23:59:00+02:00",
+      "end": "2024-06-09T04:00:00+02:00",
+      "text": "Charles Moon",
+      "stage": "Panorama Bar"
+    },
+    {
+      "start": "2024-06-09T04:00:00+02:00",
+      "end": "2024-06-09T08:00:00+02:00",
+      "text": "Richard Akingbehin refuge worldwide",
+      "stage": "Panorama Bar"
+    },
+    {
+      "start": "2024-06-09T08:00:00+02:00",
+      "end": "2024-06-09T12:00:00+02:00",
+      "text": "Yen Sung",
+      "stage": "Panorama Bar"
+    },
+    {
+      "start": "2024-06-09T12:00:00+02:00",
+      "end": "2024-06-09T16:00:00+02:00",
+      "text": "Violetta B2B Lakkes funnuvojere",
+      "stage": "Panorama Bar"
+    },
+    {
+      "start": "2024-06-09T16:00:00+02:00",
+      "end": "2024-06-09T20:00:00+02:00",
+      "text": "André Galluzzi aras",
+      "stage": "Panorama Bar"
+    },
+    {
+      "start": "2024-06-09T20:00:00+02:00",
+      "end": "2024-06-10T00:00:00+02:00",
+      "text": "Steve Rachmad delsin",
+      "stage": "Panorama Bar"
+    },
+    {
+      "start": "2024-06-10T00:00:00+02:00",
+      "end": "2024-06-10T04:00:00+02:00",
+      "text": "Partok",
+      "stage": "Panorama Bar"
+    }
+  ]
+}

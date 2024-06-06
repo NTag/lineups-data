@@ -27,6 +27,13 @@
       "name": "Klubnacht",
       "location": "Berghain",
       "path": "berghain/2024-06-01.json"
+    },
+    {
+      "start": "2024-06-08T23:59:00+02:00",
+      "end": "2024-06-10T08:00:00+02:00",
+      "name": "Klubnacht",
+      "location": "Berghain",
+      "path": "berghain/2024-06-08.json"
     }
   ]
 }
