@@ -1,0 +1,91 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77217/",
+  "name": "Klubnacht",
+
+  "sets": [
+    {
+      "start": "2024-06-29T23:59:00+02:00",
+      "end": "2024-06-30T04:30:00+02:00",
+      "text": "Sev Dah proletarijat",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-30T04:30:00+02:00",
+      "end": "2024-06-30T08:30:00+02:00",
+      "text": "Red Rooms",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-30T08:30:00+02:00",
+      "end": "2024-06-30T12:30:00+02:00",
+      "text": "Deepak Sharma hidden recordings",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-30T12:30:00+02:00",
+      "end": "2024-06-30T16:30:00+02:00",
+      "text": "GiGi FM sea~rène",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-30T16:30:00+02:00",
+      "end": "2024-06-30T20:30:00+02:00",
+      "text": "Ogazón",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-30T20:30:00+02:00",
+      "end": "2024-07-01T00:30:00+02:00",
+      "text": "Ben Klock klockworks",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-07-01T00:30:00+02:00",
+      "end": "2024-07-01T08:30:00+02:00",
+      "text": "Setaoc Mass sk_eleven",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-06-29T23:59:00+02:00",
+      "end": "2024-06-30T04:00:00+02:00",
+      "text": "Katy De Jesus",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-06-30T04:00:00+02:00",
+      "end": "2024-06-30T08:00:00+02:00",
+      "text": "Joe Delon welt discos",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-06-30T08:00:00+02:00",
+      "end": "2024-06-30T19:30:00+02:00",
+      "text": "Jennifer Loveless",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-06-30T19:30:00+02:00",
+      "end": "2024-07-01T00:00:00+02:00",
+      "text": "Optimo optimo",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-07-01T00:00:00+02:00",
+      "end": "2024-07-01T08:00:00+02:00",
+      "text": "Cormac polari",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-06-30T12:00:00+02:00",
+      "end": "2024-06-30T16:00:00+02:00",
+      "text": "nd_baumecker ostgut ton",
+      "stage": "Garten"
+    },
+    {
+      "start": "2024-06-30T16:00:00+02:00",
+      "end": "2024-06-30T19:30:00+02:00",
+      "text": "AIDA apranik",
+      "stage": "Garten"
+    }
+  ]
+}

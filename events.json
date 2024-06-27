@@ -41,6 +41,20 @@
       "name": "Horse Meat Disco",
       "location": "Prince Charles",
       "path": "prince-charles/2024-06-22.json"
+    },
+    {
+      "start": "2024-06-28T20:00:00+02:00",
+      "end": "2024-06-29T10:00:00+02:00",
+      "name": "PiepShow",
+      "location": "KitKat",
+      "path": "kitkat/2024-06-28.json"
+    },
+    {
+      "start": "2024-06-29T23:59:00+02:00",
+      "end": "2024-07-01T08:00:00+02:00",
+      "name": "Klubnacht",
+      "location": "Berghain",
+      "path": "berghain/2024-06-29.json"
     }
   ]
 }
