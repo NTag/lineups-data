@@ -64,6 +64,13 @@
       "path": "berghain/2024-07-06.json"
     },
     {
+      "start": "2024-07-12T22:00:00+02:00",
+      "end": "2024-07-13T10:00:00+02:00",
+      "name": "Revolver",
+      "location": "KitKat",
+      "path": "kitkat/2024-07-12.json"
+    },
+    {
       "start": "2024-10-10T23:59:00+02:00",
       "end": "2024-10-12T08:00:00+02:00",
       "name": "Test Event",
