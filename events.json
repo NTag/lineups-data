@@ -97,6 +97,20 @@
       "name": "Test Event",
       "location": "Berghain",
       "path": "berghain/2024-06-29.json"
+    },
+    {
+      "start": "2024-08-17T23:00:00+02:00",
+      "end": "2024-08-18T12:00:00+02:00",
+      "name": "Pornceptual — 11 years",
+      "location": "MUENZE",
+      "path": "muenze/2024-08-17.json"
+    },
+    {
+      "start": "2024-08-17T23:59:00+02:00",
+      "end": "2024-08-19T08:00:00+02:00",
+      "name": "Klubnacht",
+      "location": "Berghain",
+      "path": "berghain/2024-08-17.json"
     }
   ]
 }
