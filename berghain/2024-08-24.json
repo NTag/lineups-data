@@ -1,0 +1,90 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77225/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-08-24T23:59:00+02:00",
+      "end": "2024-08-25T04:00:00+02:00",
+      "text": "V:SONNTAG",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-08-25T04:00:00+02:00",
+      "end": "2024-08-25T06:00:00+02:00",
+      "text": "Tobias. Live",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-08-25T06:00:00+02:00",
+      "end": "2024-08-25T11:00:00+02:00",
+      "text": "YANT",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-08-25T11:00:00+02:00",
+      "end": "2024-08-25T16:00:00+02:00",
+      "text": "GiGi FM Sea~rène",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-08-25T16:00:00+02:00",
+      "end": "2024-08-25T20:00:00+02:00",
+      "text": "Shinedoe MTM",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-08-25T20:00:00+02:00",
+      "end": "2024-08-26T00:00:00+02:00",
+      "text": "Luke Slater Mote-Evolver",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-08-26T00:00:00+02:00",
+      "end": "2024-08-26T08:00:00+02:00",
+      "text": "Rødhåd WSNWG",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-08-24T23:59:00+02:00",
+      "end": "2024-08-25T04:00:00+02:00",
+      "text": "Soundstream",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-08-25T04:00:00+02:00",
+      "end": "2024-08-25T08:00:00+02:00",
+      "text": "Rob Manga",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-08-25T08:00:00+02:00",
+      "end": "2024-08-25T12:00:00+02:00",
+      "text": "Kim Anh",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-08-25T12:00:00+02:00",
+      "end": "2024-08-25T16:00:00+02:00",
+      "text": "Kléo",
+      "stage": "Garten"
+    },
+    {
+      "start": "2024-08-25T16:00:00+02:00",
+      "end": "2024-08-25T19:30:00+02:00",
+      "text": "Tama Sumo B2B Lakuti",
+      "stage": "Garten"
+    },
+    {
+      "start": "2024-08-25T19:30:00+02:00",
+      "end": "2024-08-26T00:00:00+02:00",
+      "text": "Ivan Smagghe",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-08-26T00:00:00+02:00",
+      "end": "2024-08-26T08:00:00+02:00",
+      "text": "nd_baumecker",
+      "stage": "Panorama"
+    }
+  ]
+}
