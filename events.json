@@ -118,6 +118,13 @@
       "name": "Klubnacht",
       "location": "Berghain",
       "path": "berghain/2024-08-24.json"
+    },
+    {
+      "start": "2024-08-24T23:55:00+02:00",
+      "end": "2024-08-26T10:00:00+02:00",
+      "name": "Herrensauna × Mamba Negra",
+      "location": "RSO",
+      "path": "rso/2024-08-24.json"
     }
   ]
 }
