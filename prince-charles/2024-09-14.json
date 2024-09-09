@@ -1,0 +1,30 @@
+{
+  "source": "https://www.instagram.com/p/C_dYl6gsIWx/",
+  "name": "Horse Meat Disco",
+  "sets": [
+    {
+      "start": "2024-09-14T23:00:00+02:00",
+      "end": "2024-09-15T01:30:00+02:00",
+      "text": "Limpodisco",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-09-15T01:30:00+02:00",
+      "end": "2024-09-15T06:00:00+02:00",
+      "text": "James Hillard & Jim Stanton",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-09-15T06:00:00+02:00",
+      "end": "2024-09-15T09:00:00+02:00",
+      "text": "nd_baumecker",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-09-15T09:00:00+02:00",
+      "end": "2024-09-15T12:00:00+02:00",
+      "text": "Nat Wendell",
+      "stage": "HMD"
+    }
+  ]
+}
