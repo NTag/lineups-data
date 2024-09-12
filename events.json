@@ -132,6 +132,13 @@
       "name": "Horse Meat Disco",
       "location": "Prince Charles",
       "path": "prince-charles/2024-09-14.json"
+    },
+    {
+      "start": "2024-09-14T23:59:00+02:00",
+      "end": "2024-09-16T08:00:00+02:00",
+      "name": "Klubnacht",
+      "location": "Berghain",
+      "path": "berghain/2024-09-14.json"
     }
   ]
 }

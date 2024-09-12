@@ -1,0 +1,90 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77228/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-09-14T23:59:00+02:00",
+      "end": "2024-09-15T04:30:00+02:00",
+      "text": "Fiedel Ostgut Ton",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-15T04:30:00+02:00",
+      "end": "2024-09-15T08:30:00+02:00",
+      "text": "Philippa Pacho",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-15T08:30:00+02:00",
+      "end": "2024-09-15T12:30:00+02:00",
+      "text": "ANNĒ",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-15T12:30:00+02:00",
+      "end": "2024-09-15T16:30:00+02:00",
+      "text": "Phase Fatale Ostgut Ton",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-15T16:30:00+02:00",
+      "end": "2024-09-15T20:30:00+02:00",
+      "text": "Dasha Rush Fullpanda",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-15T20:30:00+02:00",
+      "end": "2024-09-16T00:30:00+02:00",
+      "text": "Marcel Dettmann BAD MANNERS",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-16T00:30:00+02:00",
+      "end": "2024-09-16T08:00:00+02:00",
+      "text": "Adiel Danza Tribale",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-14T23:59:00+02:00",
+      "end": "2024-09-15T04:00:00+02:00",
+      "text": "Marie Montexier Paryìa",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-15T04:00:00+02:00",
+      "end": "2024-09-15T08:00:00+02:00",
+      "text": "Tijana T",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-15T08:00:00+02:00",
+      "end": "2024-09-15T12:00:00+02:00",
+      "text": "Subb-an",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-15T12:00:00+02:00",
+      "end": "2024-09-15T16:00:00+02:00",
+      "text": "Lord Of The Isles dusk delay",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-15T16:00:00+02:00",
+      "end": "2024-09-15T20:00:00+02:00",
+      "text": "Sedef Adasï Public Possession",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-15T20:00:00+02:00",
+      "end": "2024-09-16T00:00:00+02:00",
+      "text": "Gene On Earth Limousine Dream",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-16T00:00:00+02:00",
+      "end": "2024-09-16T08:00:00+02:00",
+      "text": "Jamie 3:26 The Warehouse Chicago",
+      "stage": "Panorama"
+    }
+  ]
+}
