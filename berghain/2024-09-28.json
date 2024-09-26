@@ -1,0 +1,90 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77230/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-09-28T23:59:00+02:00",
+      "end": "2024-09-29T04:00:00+02:00",
+      "text": "The Lady Machine",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-29T04:00:00+02:00",
+      "end": "2024-09-29T08:00:00+02:00",
+      "text": "¥ØU$UK€ ¥UK1MAT$U",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-29T08:00:00+02:00",
+      "end": "2024-09-29T12:00:00+02:00",
+      "text": "Tasha Neighbourhood",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-29T12:00:00+02:00",
+      "end": "2024-09-29T16:00:00+02:00",
+      "text": "Josh Wink Ovum Recordings",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-29T16:00:00+02:00",
+      "end": "2024-09-29T20:00:00+02:00",
+      "text": "Stefan Goldmann Macro",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-29T20:00:00+02:00",
+      "end": "2024-09-30T00:00:00+02:00",
+      "text": "DJ Nobu Bitta",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-30T00:00:00+02:00",
+      "end": "2024-09-30T08:00:00+02:00",
+      "text": "Mary Yuzovskaya Monday Off",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-09-28T23:59:00+02:00",
+      "end": "2024-09-29T04:00:00+02:00",
+      "text": "Norman Nodge Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-29T04:00:00+02:00",
+      "end": "2024-09-29T08:00:00+02:00",
+      "text": "Naomi",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-29T08:00:00+02:00",
+      "end": "2024-09-29T12:00:00+02:00",
+      "text": "Violetta B2B Lucas Depta Funnuvojere",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-29T12:00:00+02:00",
+      "end": "2024-09-29T16:00:00+02:00",
+      "text": "nd_baumecker Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-29T16:00:00+02:00",
+      "end": "2024-09-29T20:00:00+02:00",
+      "text": "Heidi Lawden ESP Institute",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-29T20:00:00+02:00",
+      "end": "2024-09-30T00:00:00+02:00",
+      "text": "Eli Escobar Classic",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-09-30T00:00:00+02:00",
+      "end": "2024-09-30T08:00:00+02:00",
+      "text": "Curses Wrong Era",
+      "stage": "Panorama"
+    }
+  ]
+}
