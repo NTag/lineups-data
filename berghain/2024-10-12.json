@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77232/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-10-12T23:59:00+02:00",
+      "end": "2024-10-13T04:30:00+02:00",
+      "text": "Yonti",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-13T04:30:00+02:00",
+      "end": "2024-10-13T08:30:00+02:00",
+      "text": "Rolando R3",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-13T08:30:00+02:00",
+      "end": "2024-10-13T12:30:00+02:00",
+      "text": "Ina Kacz Aneelhi",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-13T12:30:00+02:00",
+      "end": "2024-10-13T16:30:00+02:00",
+      "text": "Drumcell",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-13T16:30:00+02:00",
+      "end": "2024-10-13T20:30:00+02:00",
+      "text": "Lolsnake",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-13T20:30:00+02:00",
+      "end": "2024-10-14T00:30:00+02:00",
+      "text": "Truncate",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-14T00:30:00+02:00",
+      "end": "2024-10-14T08:00:00+02:00",
+      "text": "Inox Traxx wsnwg",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-12T23:59:00+02:00",
+      "end": "2024-10-13T04:00:00+02:00",
+      "text": "Roi Perez Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-13T04:00:00+02:00",
+      "end": "2024-10-13T08:00:00+02:00",
+      "text": "Hiroko Yamamura",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-13T08:00:00+02:00",
+      "end": "2024-10-13T12:00:00+02:00",
+      "text": "Tama Sumo Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-13T12:00:00+02:00",
+      "end": "2024-10-13T16:00:00+02:00",
+      "text": "Gerd Janson Running Back",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-13T16:00:00+02:00",
+      "end": "2024-10-13T19:00:00+02:00",
+      "text": "Snow",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-13T19:00:00+02:00",
+      "end": "2024-10-13T22:00:00+02:00",
+      "text": "Phonk D",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-13T22:00:00+02:00",
+      "end": "2024-10-14T01:00:00+02:00",
+      "text": "Soundstream Soundstream",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-14T01:00:00+02:00",
+      "end": "2024-10-14T08:00:00+02:00",
+      "text": "Marie Pravda",
+      "stage": "Panorama"
+    }
+  ]
+}
