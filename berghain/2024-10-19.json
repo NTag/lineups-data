@@ -1,0 +1,102 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77233/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-10-19T23:59:00+02:00",
+      "end": "2024-10-20T04:00:00+02:00",
+      "text": "Efdemin Ostgut Ton",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-20T04:00:00+02:00",
+      "end": "2024-10-20T05:30:00+02:00",
+      "text": "Pariah",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-20T05:30:00+02:00",
+      "end": "2024-10-20T09:30:00+02:00",
+      "text": "Vera Logdanidi Semantica",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-20T09:30:00+02:00",
+      "end": "2024-10-20T13:30:00+02:00",
+      "text": "Arthur Robert Figure",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-20T13:30:00+02:00",
+      "end": "2024-10-20T17:30:00+02:00",
+      "text": "DJ Red",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-20T17:30:00+02:00",
+      "end": "2024-10-20T21:30:00+02:00",
+      "text": "Phara",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-20T21:30:00+02:00",
+      "end": "2024-10-21T01:30:00+02:00",
+      "text": "DJ Maria.",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-21T01:30:00+02:00",
+      "end": "2024-10-21T08:00:00+02:00",
+      "text": "Darwin",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-10-19T23:59:00+02:00",
+      "end": "2024-10-20T04:00:00+02:00",
+      "text": "System Olympia",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-20T04:00:00+02:00",
+      "end": "2024-10-20T08:00:00+02:00",
+      "text": "Jorkes Freeride Millenium",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-20T08:00:00+02:00",
+      "end": "2024-10-20T12:00:00+02:00",
+      "text": "Sara Miller",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-20T12:00:00+02:00",
+      "end": "2024-10-20T16:00:00+02:00",
+      "text": "nd_baumecker Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-20T16:00:00+02:00",
+      "end": "2024-10-20T19:00:00+02:00",
+      "text": "Eluize Funnuvojere",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-20T19:00:00+02:00",
+      "end": "2024-10-20T22:00:00+02:00",
+      "text": "Colored Craig",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-20T22:00:00+02:00",
+      "end": "2024-10-21T01:00:00+02:00",
+      "text": "we.amps Funnuvojere",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-10-21T01:00:00+02:00",
+      "end": "2024-10-21T08:00:00+02:00",
+      "text": "Couple Looking for Bananas",
+      "stage": "Panorama"
+    }
+  ]
+}
