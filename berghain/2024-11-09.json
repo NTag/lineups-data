@@ -1,0 +1,72 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77236/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-11-09T23:59:00+02:00",
+      "end": "2024-11-10T04:00:00+02:00",
+      "text": "Marcel Dettmann",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-10T04:00:00+02:00",
+      "end": "2024-11-10T08:00:00+02:00",
+      "text": "Chloé Lumière Noire",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-10T08:00:00+02:00",
+      "end": "2024-11-10T12:00:00+02:00",
+      "text": "Franziska Berns",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-10T12:00:00+02:00",
+      "end": "2024-11-10T16:00:00+02:00",
+      "text": "Loren",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-10T16:00:00+02:00",
+      "end": "2024-11-10T20:00:00+02:00",
+      "text": "Ata LARJ",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-10T20:00:00+02:00",
+      "end": "2024-11-10T22:00:00+02:00",
+      "text": "Boo Williams",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-10T22:00:00+02:00",
+      "end": "2024-11-11T02:00:00+02:00",
+      "text": "Mike Starr",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-11T02:00:00+02:00",
+      "end": "2024-11-11T08:00:00+02:00",
+      "text": "Massimiliano Pagliara",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-10T16:00:00+02:00",
+      "end": "2024-11-10T20:00:00+02:00",
+      "text": "Norman Nodge",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-10T20:00:00+02:00",
+      "end": "2024-11-11T00:00:00+02:00",
+      "text": "Azu Tiwaline",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-11T00:00:00+02:00",
+      "end": "2024-11-11T08:00:00+02:00",
+      "text": "Kwartz",
+      "stage": "Berghain"
+    }
+  ]
+}
