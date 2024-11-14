@@ -1,0 +1,54 @@
+{
+  "source": "https://www.instagram.com/p/DCPWlu7shAK/",
+  "name": "Horse Meat Disco",
+  "sets": [
+    {
+      "start": "2024-11-16T22:00:00+01:00",
+      "end": "2024-11-17T00:30:00+01:00",
+      "text": "@dickeydooberlin",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-11-17T00:30:00+01:00",
+      "end": "2024-11-17T05:00:00+01:00",
+      "text": "@severinodj @jim_hmd__",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-11-17T05:00:00+01:00",
+      "end": "2024-11-17T08:00:00+01:00",
+      "text": "@dustin_zahn",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-11-17T08:00:00+01:00",
+      "end": "2024-11-17T11:00:00+01:00",
+      "text": "@shero_klubkidrecords",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-11-17T11:00:00+01:00",
+      "end": "2024-11-17T13:30:00+01:00",
+      "text": "@veritymaze",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-11-17T13:30:00+01:00",
+      "end": "2024-11-17T16:00:00+01:00",
+      "text": "@davidelimelech",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-11-17T16:00:00+01:00",
+      "end": "2024-11-17T19:00:00+01:00",
+      "text": "@severinodj @jim_hmd__",
+      "stage": "HMD"
+    },
+    {
+      "start": "2024-11-17T19:00:00+01:00",
+      "end": "2024-11-17T22:00:00+01:00",
+      "text": "@prosumerama",
+      "stage": "HMD"
+    }
+  ]
+}

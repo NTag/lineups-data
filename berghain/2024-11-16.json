@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77237/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-11-16T23:59:00+01:00",
+      "end": "2024-11-17T04:30:00+01:00",
+      "text": "Rene Wise",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-17T04:30:00+01:00",
+      "end": "2024-11-17T08:30:00+01:00",
+      "text": "Barker",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-17T08:30:00+01:00",
+      "end": "2024-11-17T12:30:00+01:00",
+      "text": "Zisko",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-17T12:30:00+01:00",
+      "end": "2024-11-17T16:30:00+01:00",
+      "text": "Blasha & Allatt",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-17T16:30:00+01:00",
+      "end": "2024-11-17T20:30:00+01:00",
+      "text": "Elisa Bee",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-17T20:30:00+01:00",
+      "end": "2024-11-18T00:30:00+01:00",
+      "text": "Nastia Reigel",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-18T00:30:00+01:00",
+      "end": "2024-11-18T08:00:00+01:00",
+      "text": "Steffi",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-16T23:59:00+01:00",
+      "end": "2024-11-17T04:00:00+01:00",
+      "text": "Paula Tape",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-17T04:00:00+01:00",
+      "end": "2024-11-17T08:00:00+01:00",
+      "text": "Nathalie Seres",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-17T08:00:00+01:00",
+      "end": "2024-11-17T12:00:00+01:00",
+      "text": "Gabrielle Kwarteng",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-17T12:00:00+01:00",
+      "end": "2024-11-17T16:00:00+01:00",
+      "text": "Jennifer Loveless",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-17T16:00:00+01:00",
+      "end": "2024-11-17T20:00:00+01:00",
+      "text": "BASHKKA",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-17T20:00:00+01:00",
+      "end": "2024-11-18T00:00:00+01:00",
+      "text": "The Carry Nation Batty Bass",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-18T20:00:00+01:00",
+      "end": "2024-11-18T08:00:00+01:00",
+      "text": "Cormac Polari",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-17T19:00:00+01:00",
+      "end": "2024-11-18T23:00:00+01:00",
+      "text": "Rahim Redcar fka Christine and the Queens",
+      "stage": "Säule"
+    }
+  ]
+}
