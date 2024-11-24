@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77238/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-11-23T23:59:00+01:00",
+      "end": "2024-11-24T04:30:00+01:00",
+      "text": "Justine Perry Dynamic Reflection",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-24T04:30:00+01:00",
+      "end": "2024-11-24T08:30:00+01:00",
+      "text": "Stef Mendesidis Live",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-24T08:30:00+01:00",
+      "end": "2024-11-24T12:30:00+01:00",
+      "text": "François X XX Lab",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-24T12:30:00+01:00",
+      "end": "2024-11-24T16:30:00+01:00",
+      "text": "Alienata",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-24T16:30:00+01:00",
+      "end": "2024-11-24T20:30:00+01:00",
+      "text": "Chami DIG Curated",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-24T20:30:00+01:00",
+      "end": "2024-11-25T00:30:00+01:00",
+      "text": "BLANKA Room Trax",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-25T00:30:00+01:00",
+      "end": "2024-11-25T08:00:00+01:00",
+      "text": "Kr!z Token",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-11-23T23:59:00+01:00",
+      "end": "2024-11-24T04:00:00+01:00",
+      "text": "Nikola",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-24T04:00:00+01:00",
+      "end": "2024-11-24T08:00:00+01:00",
+      "text": "Stella Zekri Cosmic Romance",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-24T08:00:00+01:00",
+      "end": "2024-11-24T12:00:00+01:00",
+      "text": "Luzie",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-24T12:00:00+01:00",
+      "end": "2024-11-24T16:00:00+01:00",
+      "text": "Ogazón",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-24T16:00:00+01:00",
+      "end": "2024-11-24T20:00:00+01:00",
+      "text": "Avalon Emerson AD 93",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-24T20:00:00+01:00",
+      "end": "2024-11-24T21:00:00+01:00",
+      "text": "Fadi Mohem Live MOHEM",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-24T21:00:00+01:00",
+      "end": "2024-11-25T01:00:00+01:00",
+      "text": "Man Power",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-11-25T01:00:00+01:00",
+      "end": "2024-11-25T08:00:00+01:00",
+      "text": "Gallegos Room Service",
+      "stage": "Panorama"
+    }
+  ]
+}
