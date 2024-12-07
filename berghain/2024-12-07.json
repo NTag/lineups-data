@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77240/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-12-07T23:59:00+01:00",
+      "end": "2024-12-08T04:00:00+01:00",
+      "text": "Clarisa Kimskii On Board",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-08T04:00:00+01:00",
+      "end": "2024-12-08T08:00:00+01:00",
+      "text": "Primal State dessert",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-08T08:00:00+01:00",
+      "end": "2024-12-08T12:00:00+01:00",
+      "text": "SO",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-08T12:00:00+01:00",
+      "end": "2024-12-08T16:00:00+01:00",
+      "text": "Sol Ortega",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-08T16:00:00+01:00",
+      "end": "2024-12-08T20:00:00+01:00",
+      "text": "ANNĒ",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-08T20:00:00+01:00",
+      "end": "2024-12-09T00:00:00+01:00",
+      "text": "Mark Broom Live Beard Man",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-09T00:00:00+01:00",
+      "end": "2024-12-09T08:00:00+01:00",
+      "text": "Mareena Unrush",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-07T23:59:00+01:00",
+      "end": "2024-12-08T04:30:00+01:00",
+      "text": "Cle & Eva Be",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-08T04:30:00+01:00",
+      "end": "2024-12-08T08:30:00+01:00",
+      "text": "Philippa",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-08T08:30:00+01:00",
+      "end": "2024-12-08T12:30:00+01:00",
+      "text": "Tijana T",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-08T12:30:00+01:00",
+      "end": "2024-12-08T16:30:00+01:00",
+      "text": "Alinka Twirl",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-08T16:30:00+01:00",
+      "end": "2024-12-08T20:30:00+01:00",
+      "text": "Palms Trax Dekmantel",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-08T20:30:00+01:00",
+      "end": "2024-12-09T00:30:00+01:00",
+      "text": "Fango Degustibus Music",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-09T00:30:00+01:00",
+      "end": "2024-12-09T08:00:00+01:00",
+      "text": "Edward Giegling",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-08T19:00:00+01:00",
+      "end": "2024-12-08T21:00:00+01:00",
+      "text": "KiNK Live Sofia",
+      "stage": "Säule"
+    }
+  ]
+}
