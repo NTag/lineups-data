@@ -1,0 +1,270 @@
+{
+  "source": "https://www.berghain.berlin/en/event/77241/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2024-12-13T23:59:00+01:00",
+      "end": "2024-12-14T04:30:00+01:00",
+      "text": "Fiedel B2B DJ Pete",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-14T04:30:00+01:00",
+      "end": "2024-12-14T07:30:00+01:00",
+      "text": "Surgeon",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-14T07:30:00+01:00",
+      "end": "2024-12-14T10:30:00+01:00",
+      "text": "Phase Fatale B2B Terence Fixmer",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-14T10:30:00+01:00",
+      "end": "2024-12-14T13:30:00+01:00",
+      "text": "Kyle Geiger B2B Vincent Neumann",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-14T13:30:00+01:00",
+      "end": "2024-12-14T16:30:00+01:00",
+      "text": "Etapp Kyle B2B Daria Kolosova",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-14T16:30:00+01:00",
+      "end": "2024-12-14T19:30:00+01:00",
+      "text": "Kittin B2B Marcel Dettmann",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-14T19:30:00+01:00",
+      "end": "2024-12-14T22:30:00+01:00",
+      "text": "Honey Dijon",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-14T22:30:00+01:00",
+      "end": "2024-12-15T01:30:00+01:00",
+      "text": "Amotik B2B Answer Code Request",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T01:30:00+01:00",
+      "end": "2024-12-15T04:30:00+01:00",
+      "text": "Rene Wise B2B Rødhåd",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T04:30:00+01:00",
+      "end": "2024-12-15T07:30:00+01:00",
+      "text": "Norman Nodge B2B AMORAL",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T07:30:00+01:00",
+      "end": "2024-12-15T10:30:00+01:00",
+      "text": "Shinedoe",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T10:30:00+01:00",
+      "end": "2024-12-15T13:30:00+01:00",
+      "text": "Fadi Mohem B2B Ben Klock",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T13:30:00+01:00",
+      "end": "2024-12-15T16:30:00+01:00",
+      "text": "Beste Hira",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T16:30:00+01:00",
+      "end": "2024-12-15T19:30:00+01:00",
+      "text": "Quelza B2B Efdemin",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T19:30:00+01:00",
+      "end": "2024-12-15T22:30:00+01:00",
+      "text": "Steffi B2B Tasha",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-15T22:30:00+01:00",
+      "end": "2024-12-16T01:30:00+01:00",
+      "text": "Len Faki",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-16T01:30:00+01:00",
+      "end": "2024-12-16T04:30:00+01:00",
+      "text": "Luke Slater",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-16T04:30:00+01:00",
+      "end": "2024-12-16T08:00:00+01:00",
+      "text": "JakoJako B2B Barker",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2024-12-13T23:59:00+01:00",
+      "end": "2024-12-14T04:00:00+01:00",
+      "text": "Tama Sumo B2B Lakuti",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T04:00:00+01:00",
+      "end": "2024-12-14T07:00:00+01:00",
+      "text": "Massimiliano Pagliara B2B Budino",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T07:00:00+01:00",
+      "end": "2024-12-14T10:00:00+01:00",
+      "text": "André Galluzzi",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T10:00:00+01:00",
+      "end": "2024-12-14T13:00:00+01:00",
+      "text": "Dinky B2B Matthew Styles",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T13:00:00+01:00",
+      "end": "2024-12-14T16:00:00+01:00",
+      "text": "Cormac B2B Curses",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T16:00:00+01:00",
+      "end": "2024-12-14T19:00:00+01:00",
+      "text": "Richard Akingbehin B2B Parallel 9",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T19:00:00+01:00",
+      "end": "2024-12-14T22:00:00+01:00",
+      "text": "nd_baumecker B2B Gallegos",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T22:00:00+01:00",
+      "end": "2024-12-15T01:00:00+01:00",
+      "text": "Seth Troxler",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T01:00:00+01:00",
+      "end": "2024-12-15T04:00:00+01:00",
+      "text": "Ogazón B2B Ryan Elliott",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T04:00:00+01:00",
+      "end": "2024-12-15T07:00:00+01:00",
+      "text": "Nick Höppner B2B Gonno",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T07:00:00+01:00",
+      "end": "2024-12-15T10:00:00+01:00",
+      "text": "Oracy B2B Soundstream",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T10:00:00+01:00",
+      "end": "2024-12-15T13:00:00+01:00",
+      "text": "PARAMIDA B2B Alex Kassian",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T13:00:00+01:00",
+      "end": "2024-12-15T16:00:00+01:00",
+      "text": "Roi Perez B2B Avalon Emerson",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T16:00:00+01:00",
+      "end": "2024-12-15T19:00:00+01:00",
+      "text": "Sedef Adasï B2B BASHKKA",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T19:00:00+01:00",
+      "end": "2024-12-15T22:00:00+01:00",
+      "text": "Natalie Robinson B2B Virginia",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-15T22:00:00+01:00",
+      "end": "2024-12-16T01:00:00+01:00",
+      "text": "Boris B2B Ralf",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-16T01:00:00+01:00",
+      "end": "2024-12-16T08:00:00+01:00",
+      "text": "Gerd Janson B2B Âme",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2024-12-14T20:00:00+01:00",
+      "end": "2024-12-15T00:00:00+01:00",
+      "text": "mxwhd",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T00:00:00+01:00",
+      "end": "2024-12-15T04:00:00+01:00",
+      "text": "Missteikk",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T04:00:00+01:00",
+      "end": "2024-12-15T05:00:00+01:00",
+      "text": "Jin Synth Live",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T05:00:00+01:00",
+      "end": "2024-12-15T09:00:00+01:00",
+      "text": "Jenus",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T09:00:00+01:00",
+      "end": "2024-12-15T11:00:00+01:00",
+      "text": "Tobias. Live",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T11:00:00+01:00",
+      "end": "2024-12-15T15:00:00+01:00",
+      "text": "Margaux Gazur",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T15:00:00+01:00",
+      "end": "2024-12-15T17:00:00+01:00",
+      "text": "Nazanin Noori Live",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T17:00:00+01:00",
+      "end": "2024-12-15T21:00:00+01:00",
+      "text": "Banu",
+      "stage": "Halle"
+    },
+    {
+      "start": "2024-12-15T21:00:00+01:00",
+      "end": "2024-12-15T23:00:00+01:00",
+      "text": "Grant Gibson",
+      "stage": "Halle"
+    }
+  ]
+}
