@@ -230,6 +230,13 @@
       "name": "NYE • GEGEN • PRNCPTL",
       "location": "RSO",
       "path": "rso/2025-01-01.json"
+    },
+    {
+      "start": "2025-01-11T23:59:00+01:00",
+      "end": "2025-01-13T08:00:00+01:00",
+      "name": "Klubnacht",
+      "location": "Berghain",
+      "path": "berghain/2025-01-11.json"
     }
   ]
 }

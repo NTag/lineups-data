@@ -1,0 +1,90 @@
+{
+  "source": "https://www.berghain.berlin/en/event/78627/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-01-11T23:59:00+01:00",
+      "end": "2025-01-12T04:00:00+01:00",
+      "text": "Lolsnake",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-01-12T04:00:00+01:00",
+      "end": "2025-01-12T08:00:00+01:00",
+      "text": "Norman Nodge",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-01-12T08:00:00+01:00",
+      "end": "2025-01-12T12:00:00+01:00",
+      "text": "Roman Flügel",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-01-12T12:00:00+01:00",
+      "end": "2025-01-12T16:00:00+01:00",
+      "text": "Inox Traxx",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-01-12T16:00:00+01:00",
+      "end": "2025-01-12T20:00:00+01:00",
+      "text": "Nastia Reigel",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-01-12T20:00:00+01:00",
+      "end": "2025-01-13T00:00:00+01:00",
+      "text": "Ben Klock",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-01-13T00:00:00+01:00",
+      "end": "2025-01-13T08:00:00+01:00",
+      "text": "Rødhåd",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-01-11T23:59:00+01:00",
+      "end": "2025-01-12T04:30:00+01:00",
+      "text": "Cinthie",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-01-12T04:30:00+01:00",
+      "end": "2025-01-12T08:30:00+01:00",
+      "text": "Handmade",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-01-12T08:30:00+01:00",
+      "end": "2025-01-12T12:30:00+01:00",
+      "text": "Karine B2B Shakolin",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-01-12T12:30:00+01:00",
+      "end": "2025-01-12T16:30:00+01:00",
+      "text": "nd_baumecker",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-01-12T16:30:00+01:00",
+      "end": "2025-01-12T20:30:00+01:00",
+      "text": "Ogazón",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-01-12T20:30:00+01:00",
+      "end": "2025-01-13T00:30:00+01:00",
+      "text": "Ivan Smagghe",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-01-13T00:30:00+01:00",
+      "end": "2025-01-13T08:00:00+01:00",
+      "text": "Ed Davenport",
+      "stage": "Panorama"
+    }
+  ]
+}
