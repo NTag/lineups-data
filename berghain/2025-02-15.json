@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/78632/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-02-15T23:59:00+01:00",
+      "end": "2025-02-16T04:30:00+01:00",
+      "text": "Sandrien",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-16T04:30:00+01:00",
+      "end": "2025-02-16T08:30:00+01:00",
+      "text": "JakoJako Mute",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-16T08:30:00+01:00",
+      "end": "2025-02-16T12:30:00+01:00",
+      "text": "Kasper Marott Axces",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-16T12:30:00+01:00",
+      "end": "2025-02-16T16:30:00+01:00",
+      "text": "Temudo",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-16T16:30:00+01:00",
+      "end": "2025-02-16T20:30:00+01:00",
+      "text": "Clarisa Kimskii On Board",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-16T20:30:00+01:00",
+      "end": "2025-02-17T00:30:00+01:00",
+      "text": "MARRØN",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-17T00:30:00+01:00",
+      "end": "2025-02-17T08:00:00+01:00",
+      "text": "Blasha & Allatt",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-15T23:59:00+01:00",
+      "end": "2025-02-16T04:00:00+01:00",
+      "text": "Rob Manga",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-16T04:00:00+01:00",
+      "end": "2025-02-16T08:00:00+01:00",
+      "text": "DJ Holographic",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-16T08:00:00+01:00",
+      "end": "2025-02-16T12:00:00+01:00",
+      "text": "Franziska Berns",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-16T12:00:00+01:00",
+      "end": "2025-02-16T16:00:00+01:00",
+      "text": "Axel Boman Pampa",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-16T16:00:00+01:00",
+      "end": "2025-02-16T20:00:00+01:00",
+      "text": "North 90",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-16T20:00:00+01:00",
+      "end": "2025-02-17T00:00:00+01:00",
+      "text": "nd_baumecker Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-17T00:00:00+01:00",
+      "end": "2025-02-17T08:00:00+01:00",
+      "text": "Tornado Wallace Running Back",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-16T17:00:00+01:00",
+      "end": "2025-02-16T20:00:00+01:00",
+      "text": "DEFTR Live npm",
+      "stage": "Säule"
+    }
+  ]
+}
