@@ -1,0 +1,84 @@
+{
+  "source": "https://www.berghain.berlin/en/event/78632/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-02-22T23:59:00+01:00",
+      "end": "2025-02-23T08:30:00+01:00",
+      "text": "Dinamite Onna Bushi",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-23T08:30:00+01:00",
+      "end": "2025-02-23T12:30:00+01:00",
+      "text": "BLANKA Room Trax",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-23T12:30:00+01:00",
+      "end": "2025-02-23T16:30:00+01:00",
+      "text": "Quelza Dekmantel",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-23T16:30:00+01:00",
+      "end": "2025-02-23T20:30:00+01:00",
+      "text": "Grace Dahl",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-23T20:30:00+01:00",
+      "end": "2025-02-24T00:30:00+01:00",
+      "text": "DVS1 HUSH",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-24T00:30:00+01:00",
+      "end": "2025-02-24T08:00:00+01:00",
+      "text": "Justine Perry Dynamic Reflection",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-02-22T23:59:00+01:00",
+      "end": "2025-02-23T08:00:00+01:00",
+      "text": "Ivano Tetelepta ESHU",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-23T08:00:00+01:00",
+      "end": "2025-02-23T12:00:00+01:00",
+      "text": "Natalie Robinson",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-23T12:00:00+01:00",
+      "end": "2025-02-23T16:00:00+01:00",
+      "text": "Tama Sumo Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-23T16:00:00+01:00",
+      "end": "2025-02-23T20:00:00+01:00",
+      "text": "Soundstream Soundstream",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-23T20:00:00+01:00",
+      "end": "2025-02-24T00:00:00+01:00",
+      "text": "Gerd Janson Running Back",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-24T00:00:00+01:00",
+      "end": "2025-02-24T08:00:00+01:00",
+      "text": "Binh Time Passages",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-02-23T19:00:00+01:00",
+      "end": "2025-02-23T22:00:00+01:00",
+      "text": "Red Axes Live Garzen Records",
+      "stage": "Säule"
+    }
+  ]
+}
