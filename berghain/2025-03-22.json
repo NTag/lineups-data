@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/78637/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-03-22T23:59:00+01:00",
+      "end": "2025-03-23T04:00:00+01:00",
+      "text": "Adiel",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-23T04:00:00+01:00",
+      "end": "2025-03-23T08:00:00+01:00",
+      "text": "VIL",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-23T08:00:00+01:00",
+      "end": "2025-03-23T12:00:00+01:00",
+      "text": "Barker",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-23T12:00:00+01:00",
+      "end": "2025-03-23T16:00:00+01:00",
+      "text": "Shinedoe",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-23T16:00:00+01:00",
+      "end": "2025-03-23T20:00:00+01:00",
+      "text": "Wata Igarashi",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-23T20:00:00+01:00",
+      "end": "2025-03-24T00:00:00+01:00",
+      "text": "The Lady Machine",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-24T00:00:00+01:00",
+      "end": "2025-03-24T08:00:00+01:00",
+      "text": "Ø [Phase]",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-22T23:59:00+01:00",
+      "end": "2025-03-23T04:30:00+01:00",
+      "text": "Nat Wendell",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-23T04:30:00+01:00",
+      "end": "2025-03-23T08:30:00+01:00",
+      "text": "Jayson Wynters",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-23T08:30:00+01:00",
+      "end": "2025-03-23T12:30:00+01:00",
+      "text": "Kikelomo",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-23T12:30:00+01:00",
+      "end": "2025-03-23T16:30:00+01:00",
+      "text": "Partok",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-23T16:30:00+01:00",
+      "end": "2025-03-23T20:30:00+01:00",
+      "text": "Cormac",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-23T20:30:00+01:00",
+      "end": "2025-03-24T00:30:00+01:00",
+      "text": "BASHKKA",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-24T00:30:00+01:00",
+      "end": "2025-03-24T08:00:00+01:00",
+      "text": "Boris",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-23T19:00:00+01:00",
+      "end": "2025-03-23T22:00:00+01:00",
+      "text": "Marcel Dettmann",
+      "stage": "Säule"
+    }
+  ]
+}
