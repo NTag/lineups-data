@@ -1,0 +1,102 @@
+{
+  "source": "https://www.berghain.berlin/en/event/78638/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-03-29T23:59:00+01:00",
+      "end": "2025-03-30T05:00:00+02:00",
+      "text": "fr.JPLA",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-30T05:00:00+02:00",
+      "end": "2025-03-30T06:15:00+02:00",
+      "text": "Planetary Assault Systems Live",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-30T06:15:00+02:00",
+      "end": "2025-03-30T10:15:00+02:00",
+      "text": "Rene Wise",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-30T10:15:00+02:00",
+      "end": "2025-03-30T14:15:00+02:00",
+      "text": "DJ Red",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-30T14:15:00+02:00",
+      "end": "2025-03-30T18:15:00+02:00",
+      "text": "Massimiliano Pagliara Funnuvojere",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-30T18:15:00+02:00",
+      "end": "2025-03-30T22:15:00+02:00",
+      "text": "GiGi FM Sea~rène",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-30T22:15:00+02:00",
+      "end": "2025-03-31T02:15:00+02:00",
+      "text": "DJ Maria.",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-31T02:15:00+02:00",
+      "end": "2025-03-31T08:00:00+02:00",
+      "text": "Ben Klock Klockworks",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-03-29T23:59:00+01:00",
+      "end": "2025-03-30T04:00:00+02:00",
+      "text": "Yuzo Iwata",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-30T04:00:00+02:00",
+      "end": "2025-03-30T08:00:00+02:00",
+      "text": "Quest",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-30T08:00:00+02:00",
+      "end": "2025-03-30T12:00:00+02:00",
+      "text": "Anna Haleta",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-30T12:00:00+02:00",
+      "end": "2025-03-30T16:00:00+02:00",
+      "text": "Eduardo de la Calle",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-30T16:00:00+02:00",
+      "end": "2025-03-30T20:00:00+02:00",
+      "text": "Radio Slave Rekids",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-30T20:00:00+02:00",
+      "end": "2025-03-31T00:00:00+02:00",
+      "text": "The Blessed Madonna",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-31T00:00:00+02:00",
+      "end": "2025-03-31T08:00:00+02:00",
+      "text": "Roi Perez Ostgut Ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-03-30T19:00:00+02:00",
+      "end": "2025-03-30T22:00:00+02:00",
+      "text": "Fireground Live Tresor",
+      "stage": "Säule"
+    }
+  ]
+}
