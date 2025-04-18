@@ -279,6 +279,13 @@
       "name": "Klubnacht",
       "location": "Berghain",
       "path": "berghain/2025-03-29.json"
+    },
+    {
+      "start": "2025-04-18T20:00:00+02:00",
+      "end": "2025-04-19T10:00:00+02:00",
+      "name": "PiepShow",
+      "location": "KitKat",
+      "path": "kitkat/2025-04-18.json"
     }
   ]
 }

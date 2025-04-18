@@ -1,0 +1,77 @@
+{
+  "name": "PiepShow",
+  "sets": [
+    {
+      "start": "2025-04-18T20:00:00+02:00",
+      "end": "2025-04-18T22:30:00+02:00",
+      "text": "Ida Scheppert",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-04-18T22:30:00+02:00",
+      "end": "2025-04-19T02:00:00+02:00",
+      "text": "Chris Bekker",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-04-19T02:00:00+02:00",
+      "end": "2025-04-19T03:30:00+02:00",
+      "text": "Ida Scheppert",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-04-19T03:30:00+02:00",
+      "end": "2025-04-19T06:30:00+02:00",
+      "text": "Tobias Sommer",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-04-19T06:30:00+02:00",
+      "end": "2025-04-19T10:00:00+02:00",
+      "text": "FLEXTASY",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-04-18T21:00:00+02:00",
+      "end": "2025-04-19T00:30:00+02:00",
+      "text": "CHAOS Techno.Berlin",
+      "stage": "Dragonfloor"
+    },
+    {
+      "start": "2025-04-19T00:30:00+02:00",
+      "end": "2025-04-19T04:00:00+02:00",
+      "text": "enjoyVoid",
+      "stage": "Dragonfloor"
+    },
+    {
+      "start": "2025-04-19T04:00:00+02:00",
+      "end": "2025-04-19T07:30:00+02:00",
+      "text": "YESOLO",
+      "stage": "Dragonfloor"
+    },
+    {
+      "start": "2025-04-18T22:00:00+02:00",
+      "end": "2025-04-19T06:00:00+02:00",
+      "text": "KEN & PayPaul",
+      "stage": "Happy Hole"
+    },
+    {
+      "start": "2025-04-18T23:00:00+02:00",
+      "end": "2025-04-19T05:00:00+02:00",
+      "text": "Königsmann & Tiasz",
+      "stage": "Drag Cabaret"
+    },
+    {
+      "start": "2025-04-18T22:00:00+02:00",
+      "end": "2025-04-19T06:00:00+02:00",
+      "text": "PADERKID & Miss Ivanka T.",
+      "stage": "Prisma"
+    },
+    {
+      "start": "2025-04-18T23:00:00+02:00",
+      "end": "2025-04-19T06:00:00+02:00",
+      "text": "David Talzin & Tobias Sommer",
+      "stage": "Seppa"
+    }
+  ]
+}
