@@ -293,6 +293,13 @@
       "name": "Klubnacht",
       "location": "Berghain",
       "path": "berghain/2025-04-19.json"
-    }
+    },
+    {
+      "start": "2025-05-01T12:00:00+02:00",
+      "end": "2025-05-01T20:00:00+02:00",
+      "name": "Garten",
+      "location": "Berghain",
+      "path": "berghain/2025-05-01.json"
+    
   ]
 }
