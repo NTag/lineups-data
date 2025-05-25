@@ -1,0 +1,96 @@
+{
+  "source": "https://www.berghain.berlin/en/event/79216/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-05-24T23:59:00+02:00",
+      "end": "2025-05-25T04:00:00+02:00",
+      "text": "Phase Fatale",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-25T04:00:00+02:00",
+      "end": "2025-05-25T05:00:00+02:00",
+      "text": "Yanamaste",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-25T05:00:00+02:00",
+      "end": "2025-05-25T09:00:00+02:00",
+      "text": "Unhuman",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-25T09:00:00+02:00",
+      "end": "2025-05-25T13:00:00+02:00",
+      "text": "Nastya Vogan",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-25T13:00:00+02:00",
+      "end": "2025-05-25T17:00:00+02:00",
+      "text": "Phara",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-25T17:00:00+02:00",
+      "end": "2025-05-25T21:00:00+02:00",
+      "text": "Ben Klock",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-25T21:00:00+02:00",
+      "end": "2025-05-26T01:00:00+02:00",
+      "text": "AMORAL",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-26T01:00:00+02:00",
+      "end": "2025-05-26T08:00:00+02:00",
+      "text": "Norman Nodge",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-05-24T23:59:00+02:00",
+      "end": "2025-05-25T04:00:00+02:00",
+      "text": "Lis Sarroca",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-05-25T04:00:00+02:00",
+      "end": "2025-05-25T08:00:00+02:00",
+      "text": "ISAbella",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-05-25T08:00:00+02:00",
+      "end": "2025-05-25T12:00:00+02:00",
+      "text": "Dukwa",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-05-25T12:00:00+02:00",
+      "end": "2025-05-25T16:00:00+02:00",
+      "text": "Nikola",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-05-25T16:00:00+02:00",
+      "end": "2025-05-25T20:00:00+02:00",
+      "text": "Victor",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-05-25T20:00:00+02:00",
+      "end": "2025-05-26T00:00:00+02:00",
+      "text": "Ogazón",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-05-26T00:00:00+02:00",
+      "end": "2025-05-26T08:00:00+02:00",
+      "text": "Chloé",
+      "stage": "Panorama"
+    }
+  ]
+}
