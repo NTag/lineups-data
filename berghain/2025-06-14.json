@@ -1,0 +1,90 @@
+{
+  "source": "https://berghain.berlin/de/event/79219/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-06-14T23:59:00+02:00",
+      "end": "2025-06-15T04:30:00+02:00",
+      "text": "Andy Martin",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-06-15T04:30:00+02:00",
+      "end": "2025-06-15T08:30:00+02:00",
+      "text": "ABS8LUTE",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-06-15T08:30:00+02:00",
+      "end": "2025-06-15T12:30:00+02:00",
+      "text": "Aöcram mord",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-06-15T12:30:00+02:00",
+      "end": "2025-06-15T16:30:00+02:00",
+      "text": "Rolando r3",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-06-15T16:30:00+02:00",
+      "end": "2025-06-15T20:30:00+02:00",
+      "text": "Lolsnake",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-06-15T20:30:00+02:00",
+      "end": "2025-06-16T00:30:00+02:00",
+      "text": "Beste Hira",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-06-16T00:30:00+02:00",
+      "end": "2025-06-16T08:00:00+02:00",
+      "text": "Altinbas",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-06-14T23:59:00+02:00",
+      "end": "2025-06-15T04:00:00+02:00",
+      "text": "Gabrielle Kwarteng",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-06-15T04:00:00+02:00",
+      "end": "2025-06-15T08:00:00+02:00",
+      "text": "Richard Akingbehin",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-06-15T08:00:00+02:00",
+      "end": "2025-06-15T12:00:00+02:00",
+      "text": "Gwenan",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-06-15T19:30:00+02:00",
+      "end": "2025-06-16T00:00:00+02:00",
+      "text": "Âme",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-06-16T00:00:00+02:00",
+      "end": "2025-06-16T08:00:00+02:00",
+      "text": "Mozhgan B2B Solar",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-06-15T12:00:00+02:00",
+      "end": "2025-06-15T16:00:00+02:00",
+      "text": "Hiroko Yamamura",
+      "stage": "Garten"
+    },
+    {
+      "start": "2025-06-15T16:00:00+02:00",
+      "end": "2025-06-15T20:00:00+02:00",
+      "text": "Derrick Carter",
+      "stage": "Garten"
+    }
+  ]
+}
