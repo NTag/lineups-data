@@ -1,0 +1,126 @@
+{
+  "source": "https://berghain.berlin/de/event/79225/",
+  "name": "Klubnacht CSD",
+  "sets": [
+    {
+      "start": "2025-07-26T23:59:00+02:00",
+      "end": "2025-07-27T04:30:00+02:00",
+      "text": "Mike Starr",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-27T04:30:00+02:00",
+      "end": "2025-07-27T07:30:00+02:00",
+      "text": "Steffi",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-27T07:30:00+02:00",
+      "end": "2025-07-27T10:30:00+02:00",
+      "text": "Virginia",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-27T10:30:00+02:00",
+      "end": "2025-07-27T13:30:00+02:00",
+      "text": "Partok",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-27T13:30:00+02:00",
+      "end": "2025-07-27T16:30:00+02:00",
+      "text": "Zander Woodz",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-27T16:30:00+02:00",
+      "end": "2025-07-27T19:30:00+02:00",
+      "text": "Roi Perez",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-27T19:30:00+02:00",
+      "end": "2025-07-27T22:30:00+02:00",
+      "text": "Massimiliano Pagliara",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-27T22:30:00+02:00",
+      "end": "2025-07-28T01:30:00+02:00",
+      "text": "Olivia Mendez",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-28T01:30:00+02:00",
+      "end": "2025-07-28T04:30:00+02:00",
+      "text": "Clarisa Kimskii",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-28T04:30:00+02:00",
+      "end": "2025-07-28T08:00:00+02:00",
+      "text": "Boris",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-07-26T23:59:00+02:00",
+      "end": "2025-07-27T04:00:00+02:00",
+      "text": "BASHKKA",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-27T04:00:00+02:00",
+      "end": "2025-07-27T07:00:00+02:00",
+      "text": "Luigi Di Venere",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-27T07:00:00+02:00",
+      "end": "2025-07-27T10:00:00+02:00",
+      "text": "Kilopatrah Jones",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-27T10:00:00+02:00",
+      "end": "2025-07-27T13:00:00+02:00",
+      "text": "Stacey Hotwaxx Hale",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-27T13:00:00+02:00",
+      "end": "2025-07-27T16:00:00+02:00",
+      "text": "Lakuti B2B Tama Sumo",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-27T16:00:00+02:00",
+      "end": "2025-07-27T19:00:00+02:00",
+      "text": "Natalie Robinson B2B Katy De Jesus",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-27T19:00:00+02:00",
+      "end": "2025-07-27T22:00:00+02:00",
+      "text": "Cormac",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-27T22:00:00+02:00",
+      "end": "2025-07-28T00:00:00+02:00",
+      "text": "DECIUS",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-28T00:00:00+02:00",
+      "end": "2025-07-28T03:00:00+02:00",
+      "text": "Justin Cudmore",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-07-28T03:00:00+02:00",
+      "end": "2025-07-28T08:00:00+02:00",
+      "text": "nd_baumecker",
+      "stage": "Panorama"
+    }
+  ]
+}
