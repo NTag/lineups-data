@@ -1,0 +1,96 @@
+{
+  "source": "https://berghain.berlin/de/event/79228/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-08-16T23:59:00+02:00",
+      "end": "2025-08-17T04:30:00+02:00",
+      "text": "Beste Hira",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-08-17T04:30:00+02:00",
+      "end": "2025-08-17T08:30:00+02:00",
+      "text": "Norman Nodge",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-08-17T08:30:00+02:00",
+      "end": "2025-08-17T12:30:00+02:00",
+      "text": "Decka",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-08-17T12:30:00+02:00",
+      "end": "2025-08-17T16:30:00+02:00",
+      "text": "MARRØN",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-08-17T16:30:00+02:00",
+      "end": "2025-08-17T20:30:00+02:00",
+      "text": "Shinedoe",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-08-17T20:30:00+02:00",
+      "end": "2025-08-18T00:30:00+02:00",
+      "text": "Dax J",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-08-18T00:30:00+02:00",
+      "end": "2025-08-18T08:00:00+02:00",
+      "text": "Aurora Halal",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-08-16T23:59:00+02:00",
+      "end": "2025-08-17T04:00:00+02:00",
+      "text": "Kim Anh",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-08-17T04:00:00+02:00",
+      "end": "2025-08-17T08:00:00+02:00",
+      "text": "Vlada",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-08-17T08:00:00+02:00",
+      "end": "2025-08-17T09:00:00+02:00",
+      "text": "Priori LIVE",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-08-17T09:00:00+02:00",
+      "end": "2025-08-17T12:00:00+02:00",
+      "text": "Mattias El Mansouri",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-08-17T19:30:00+02:00",
+      "end": "2025-08-17T23:30:00+02:00",
+      "text": "Louie Vega",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-08-17T23:30:00+02:00",
+      "end": "2025-08-18T08:00:00+02:00",
+      "text": "Gabrielle Kwarteng",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-08-17T12:00:00+02:00",
+      "end": "2025-08-17T16:00:00+02:00",
+      "text": "Bella Boo studio barnhus",
+      "stage": "Garten"
+    },
+    {
+      "start": "2025-08-17T16:00:00+02:00",
+      "end": "2025-08-17T20:00:00+02:00",
+      "text": "Gerd Janson running back",
+      "stage": "Garten"
+    }
+  ]
+}
