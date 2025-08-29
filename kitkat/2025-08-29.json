@@ -1,0 +1,59 @@
+{
+  "name": "PiepShow",
+  "sets": [
+    {
+      "start": "2025-08-29T20:00:00+02:00",
+      "end": "2025-08-29T22:30:00+02:00",
+      "text": "CHAOS",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-08-29T22:30:00+02:00",
+      "end": "2025-08-30T00:30:00+02:00",
+      "text": "Juan Del Chambo",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-08-30T00:30:00+02:00",
+      "end": "2025-08-30T02:30:00+02:00",
+      "text": "Yves Meyer",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-08-30T02:30:00+02:00",
+      "end": "2025-08-30T04:30:00+02:00",
+      "text": "Juan Del Chambo",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-08-30T04:30:00+02:00",
+      "end": "2025-08-30T06:30:00+02:00",
+      "text": "Yves Meyer",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-08-30T06:30:00+02:00",
+      "end": "2025-08-30T10:00:00+02:00",
+      "text": "FLEXTASY",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-08-29T22:00:00+02:00",
+      "end": "2025-08-30T01:00:00+02:00",
+      "text": "Cristian Martinez",
+      "stage": "Dragonfloor"
+    },
+    {
+      "start": "2025-08-30T01:00:00+02:00",
+      "end": "2025-08-30T04:00:00+02:00",
+      "text": "Doram",
+      "stage": "Dragonfloor"
+    },
+    {
+      "start": "2025-08-30T04:00:00+02:00",
+      "end": "2025-08-30T07:00:00+02:00",
+      "text": "ILLUMINATI",
+      "stage": "Dragonfloor"
+    }
+  ]
+}
