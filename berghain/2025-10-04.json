@@ -1,0 +1,102 @@
+{
+  "source": "https://berghain.berlin/de/event/79235/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-10-04T23:59:00+02:00",
+      "end": "2025-10-05T04:00:00+02:00",
+      "text": "Ben Sims symbolism",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-05T04:00:00+02:00",
+      "end": "2025-10-05T08:00:00+02:00",
+      "text": "Mari Sakurai",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-05T08:00:00+02:00",
+      "end": "2025-10-05T12:00:00+02:00",
+      "text": "Philippa Pacho",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-05T12:00:00+02:00",
+      "end": "2025-10-05T16:00:00+02:00",
+      "text": "ABS8LUTE",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-05T16:00:00+02:00",
+      "end": "2025-10-05T20:00:00+02:00",
+      "text": "Fadi Mohem mohem",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-05T20:00:00+02:00",
+      "end": "2025-10-05T21:00:00+02:00",
+      "text": "Phara LIVE",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-05T21:00:00+02:00",
+      "end": "2025-10-06T01:00:00+02:00",
+      "text": "Rolando r3",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-06T01:00:00+02:00",
+      "end": null,
+      "text": "MARRØN",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-04T23:59:00+02:00",
+      "end": "2025-10-05T04:30:00+02:00",
+      "text": "Tama Sumo ostgut ton",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-05T04:30:00+02:00",
+      "end": "2025-10-05T08:30:00+02:00",
+      "text": "Mandel",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-05T08:30:00+02:00",
+      "end": "2025-10-05T12:30:00+02:00",
+      "text": "New Digital Fidelity",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-05T12:30:00+02:00",
+      "end": "2025-10-05T16:30:00+02:00",
+      "text": "Mike Starr",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-05T16:30:00+02:00",
+      "end": "2025-10-05T20:30:00+02:00",
+      "text": "BASHKKA",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-05T20:30:00+02:00",
+      "end": "2025-10-06T00:30:00+02:00",
+      "text": "Cinthie 803 crystal grooves",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-06T00:30:00+02:00",
+      "end": "2025-10-06T08:00:00+02:00",
+      "text": "PARAMIDA love on the rocks",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-05T19:00:00+02:00",
+      "end": "2025-10-05T22:00:00+02:00",
+      "text": "Factory Floor",
+      "stage": "Säule"
+    }
+  ]
+}
