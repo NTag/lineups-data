@@ -1,0 +1,102 @@
+{
+  "source": "https://berghain.berlin/de/event/79237/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-10-18T23:59:00+02:00",
+      "end": "2025-10-19T04:30:00+02:00",
+      "text": "JakoJako",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-19T04:30:00+02:00",
+      "end": "2025-10-19T08:30:00+02:00",
+      "text": "Ryan Elliott",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-19T08:30:00+02:00",
+      "end": "2025-10-19T12:30:00+02:00",
+      "text": "Blue Hour",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-19T12:30:00+02:00",
+      "end": "2025-10-19T16:30:00+02:00",
+      "text": "Virginia",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-19T16:30:00+02:00",
+      "end": "2025-10-19T20:30:00+02:00",
+      "text": "Quelza",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-19T20:30:00+02:00",
+      "end": "2025-10-20T00:30:00+02:00",
+      "text": "Luke Slater B2B Rene Wise",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-20T00:30:00+02:00",
+      "end": "2025-10-20T10:00:00+02:00",
+      "text": "Elisa Bee",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-10-18T23:59:00+02:00",
+      "end": "2025-10-19T04:00:00+02:00",
+      "text": "Gian",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-19T04:00:00+02:00",
+      "end": "2025-10-19T08:00:00+02:00",
+      "text": "Rotciv",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-19T08:00:00+02:00",
+      "end": "2025-10-19T12:00:00+02:00",
+      "text": "TOMY",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-19T12:00:00+02:00",
+      "end": "2025-10-19T15:00:00+02:00",
+      "text": "Vicki Powell",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-19T15:00:00+02:00",
+      "end": "2025-10-19T18:00:00+02:00",
+      "text": "Masha Mar",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-19T18:00:00+02:00",
+      "end": "2025-10-19T21:00:00+02:00",
+      "text": "NIKS",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-19T21:00:00+02:00",
+      "end": "2025-10-20T00:00:00+02:00",
+      "text": "ALDONNA",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-20T00:00:00+02:00",
+      "end": "2025-10-20T10:00:00+02:00",
+      "text": "Couple Looking for Bananas",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-10-19T19:00:00+02:00",
+      "end": "2025-10-19T23:00:00+02:00",
+      "text": "Fantastic Twins",
+      "stage": "Säule"
+    }
+  ]
+}
