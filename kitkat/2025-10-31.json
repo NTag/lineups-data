@@ -1,0 +1,60 @@
+{
+  "name": "PiepShow",
+  "source": "https://www.instagram.com/p/DQWr1MMDKba/",
+  "sets": [
+    {
+      "start": "2025-10-31T20:00:00+01:00",
+      "end": "2025-10-31T23:00:00+01:00",
+      "text": "Älly",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-10-31T23:00:00+01:00",
+      "end": "2025-11-01T01:00:00+01:00",
+      "text": "Yves Meyer",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-11-01T01:00:00+01:00",
+      "end": "2025-11-01T03:00:00+01:00",
+      "text": "Daryl Johnson",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-11-01T03:00:00+01:00",
+      "end": "2025-11-01T05:00:00+01:00",
+      "text": "Yves Meyer",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-11-01T05:00:00+01:00",
+      "end": "2025-11-01T07:00:00+01:00",
+      "text": "Daryl Johnson",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-11-01T07:00:00+01:00",
+      "end": "2025-11-01T10:00:00+01:00",
+      "text": "Louis Harshman",
+      "stage": "Mainhall"
+    },
+    {
+      "start": "2025-10-31T21:30:00+01:00",
+      "end": "2025-11-01T01:00:00+01:00",
+      "text": "FLEXTASY",
+      "stage": "Dragonfloor"
+    },
+    {
+      "start": "2025-11-01T01:00:00+01:00",
+      "end": "2025-11-01T04:00:00+01:00",
+      "text": "David Strasser",
+      "stage": "Dragonfloor"
+    },
+    {
+      "start": "2025-11-01T04:00:00+01:00",
+      "end": "2025-11-01T07:00:00+01:00",
+      "text": "ILLUMINATI",
+      "stage": "Dragonfloor"
+    }
+  ]
+}
