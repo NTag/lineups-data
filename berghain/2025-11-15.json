@@ -1,0 +1,96 @@
+{
+  "source": "https://berghain.berlin/de/event/79241/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-11-15T23:59:00+01:00",
+      "end": "2025-11-16T04:00:00+01:00",
+      "text": "Tasha",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-16T04:00:00+01:00",
+      "end": "2025-11-16T08:00:00+01:00",
+      "text": "Altinbas",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-16T08:00:00+01:00",
+      "end": "2025-11-16T12:00:00+01:00",
+      "text": "Alienata",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-16T12:00:00+01:00",
+      "end": "2025-11-16T16:00:00+01:00",
+      "text": "Jesse G",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-16T16:00:00+01:00",
+      "end": "2025-11-16T20:00:00+01:00",
+      "text": "Wata Igarashi",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-16T20:00:00+01:00",
+      "end": "2025-11-16T21:30:00+01:00",
+      "text": "Kirilik LIVE",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-16T21:30:00+01:00",
+      "end": "2025-11-17T01:30:00+01:00",
+      "text": "Nørbak",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-17T01:30:00+01:00",
+      "end": "2025-11-17T10:00:00+01:00",
+      "text": "Answer Code Request",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-11-15T23:59:00+01:00",
+      "end": "2025-11-16T04:30:00+01:00",
+      "text": "Audrey Danza",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-11-16T04:30:00+01:00",
+      "end": "2025-11-16T08:30:00+01:00",
+      "text": "Roi Perez",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-11-16T08:30:00+01:00",
+      "end": "2025-11-16T12:30:00+01:00",
+      "text": "Gacha Bakradze B2B Ash Scholem",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-11-16T12:30:00+01:00",
+      "end": "2025-11-16T16:30:00+01:00",
+      "text": "Katy De Jesus",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-11-16T16:30:00+01:00",
+      "end": "2025-11-16T20:30:00+01:00",
+      "text": "Nina Yamada",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-11-16T20:30:00+01:00",
+      "end": "2025-11-17T00:30:00+01:00",
+      "text": "Kevin Yost",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-11-17T00:30:00+01:00",
+      "end": "2025-11-17T10:00:00+01:00",
+      "text": "Oracy B2B Sven Weisemann",
+      "stage": "Panorama"
+    }
+  ]
+}
