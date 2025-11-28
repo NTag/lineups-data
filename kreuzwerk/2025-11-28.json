@@ -1,0 +1,41 @@
+{
+  "name": "Power Dance Club",
+  "sets": [
+    {
+      "start": "2025-11-28T23:59:00+01:00",
+      "end": "2025-11-29T04:00:00+01:00",
+      "text": "Luigi Di Venere B2B Stathis",
+      "stage": "Sauna"
+    },
+    {
+      "start": "2025-11-29T04:00:00+01:00",
+      "end": "2025-11-29T14:00:00+01:00",
+      "text": "Dirty Daddy Don B2B Majdolen",
+      "stage": "Sauna"
+    },
+    {
+      "start": "2025-11-29T01:00:00+01:00",
+      "end": "2025-11-29T06:00:00+01:00",
+      "text": "Izzy Demzky B2B Son of George",
+      "stage": "GREEN HOUSE"
+    },
+    {
+      "start": "2025-11-29T06:00:00+01:00",
+      "end": "2025-11-29T10:00:00+01:00",
+      "text": "Josh Caffé",
+      "stage": "GREEN HOUSE"
+    },
+    {
+      "start": "2025-11-29T10:00:00+01:00",
+      "end": "2025-11-29T14:00:00+01:00",
+      "text": "Bashkka",
+      "stage": "GREEN HOUSE"
+    },
+    {
+      "start": "2025-11-29T02:00:00+01:00",
+      "end": "2025-11-29T14:00:00+01:00",
+      "text": "Stella Zekri",
+      "stage": "DISCOTECA"
+    }
+  ]
+}

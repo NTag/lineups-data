@@ -384,6 +384,13 @@
       "name": "Klubnacht",
       "location": "Berghain",
       "path": "berghain/2025-11-15.json"
+    },
+    {
+      "start": "2025-11-28T23:59:00+01:00",
+      "end": "2025-11-29T14:00:00+01:00",
+      "name": "Power Dance Club",
+      "location": "Kreuzwerk",
+      "path": "kreuzwerk/2025-11-28.json"
     }
   ]
 }
