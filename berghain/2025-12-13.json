@@ -1,0 +1,102 @@
+{
+  "source": "https://berghain.berlin/de/event/79245/",
+  "name": "Klubnacht",
+  "sets": [
+    {
+      "start": "2025-12-13T23:59:00+01:00",
+      "end": "2025-12-14T05:00:00+01:00",
+      "text": "Fadi Mohem",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-14T05:00:00+01:00",
+      "end": "2025-12-14T08:00:00+01:00",
+      "text": "Voices From The Lake",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-14T08:00:00+01:00",
+      "end": "2025-12-14T12:00:00+01:00",
+      "text": "DJ Maria.",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-14T12:00:00+01:00",
+      "end": "2025-12-14T16:00:00+01:00",
+      "text": "Elisa Bee",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-14T16:00:00+01:00",
+      "end": "2025-12-14T20:00:00+01:00",
+      "text": "JakoJako",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-14T20:00:00+01:00",
+      "end": "2025-12-15T00:00:00+01:00",
+      "text": "Speedy J",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-15T00:00:00+01:00",
+      "end": "2025-12-15T04:00:00+01:00",
+      "text": "Sterac",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-15T04:00:00+01:00",
+      "end": "2025-12-15T10:00:00+01:00",
+      "text": "Ben Klock",
+      "stage": "Berghain"
+    },
+    {
+      "start": "2025-12-13T23:59:00+01:00",
+      "end": "2025-12-14T04:30:00+01:00",
+      "text": "nd_baumecker",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-12-14T04:30:00+01:00",
+      "end": "2025-12-14T08:30:00+01:00",
+      "text": "Gallegos",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-12-14T08:30:00+01:00",
+      "end": "2025-12-14T12:30:00+01:00",
+      "text": "Ash Lauryn",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-12-14T12:30:00+01:00",
+      "end": "2025-12-14T16:30:00+01:00",
+      "text": "Stacey Hotwaxx Hale",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-12-14T16:30:00+01:00",
+      "end": "2025-12-14T20:30:00+01:00",
+      "text": "PARAMIDA",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-12-14T20:30:00+01:00",
+      "end": "2025-12-14T23:30:00+01:00",
+      "text": "Mathew Jonson",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-12-14T23:30:00+01:00",
+      "end": "2025-12-15T03:30:00+01:00",
+      "text": "Gerd Janson",
+      "stage": "Panorama"
+    },
+    {
+      "start": "2025-12-15T03:30:00+01:00",
+      "end": "2025-12-15T10:00:00+01:00",
+      "text": "Âme DJ",
+      "stage": "Panorama"
+    }
+  ]
+}
